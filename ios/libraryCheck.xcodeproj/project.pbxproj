@@ -114,7 +114,6 @@
 				A0AB0F2F8F68981E2E3690F6 /* Pods-libraryCheck-libraryCheckTests.debug.xcconfig */,
 				D8EAC4C98DF3E0F9F05E30AC /* Pods-libraryCheck-libraryCheckTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
